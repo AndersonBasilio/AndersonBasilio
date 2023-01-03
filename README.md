@@ -2,7 +2,7 @@
 
 [![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-4488a5242/)
 
-[![Anderson Basilio GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonBAsilio&theme=blue-green)]()
+![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
 
 ### Technologies: 
 
