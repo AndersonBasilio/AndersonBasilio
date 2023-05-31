@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Anderson Basilio :wave:
 
   <h5>:man_student: Estudante de Analise e Desenvolvimento de Sistemas...<br>
-  :man_technologist: Estudando Python, HTML e CSS...<br><br><br>
+  :man_technologist: Estudando Python, HTML e CSS...<br>
+  Pronouns: Ele/ Dele...
+  <br><br><br>
+  
 
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
   
@@ -24,3 +27,7 @@
 ## Contatos:
 [![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-4488a5242/)
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonwylde32@gmail.com)
+  
+[!Snake animation](https://github/AndersonBasilio/AndersonBasilio/blob/output/contribution-grid-snake.svg)
+  
+
