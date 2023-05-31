@@ -28,6 +28,5 @@
 [![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-4488a5242/)
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonwylde32@gmail.com)
   
-[!Snake animation](https://github/AndersonBasilio/AndersonBasilio/blob/output/contribution-grid-snake.svg)
   
 
