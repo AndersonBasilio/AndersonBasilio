@@ -4,7 +4,6 @@
   :man_technologist: Estudando Linguagem de Programação Python, HTML e CSS...<br><br><br>
 
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
-
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBasilio&&theme=radical)
 
 ## Tecnologias
