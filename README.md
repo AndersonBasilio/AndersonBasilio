@@ -1,13 +1,13 @@
 ## Olá eu sou o Anderson Basilio :wave:
 
-- :man_student: Estudante de Analise e Desenvolvimento de Sistemas...
+<h1>- :man_student: Estudante de Analise e Desenvolvimento de Sistemas...
 - :man_technologist: Estudando Linguagem de Programação Python...
 
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
 
 ### Tecnologias: 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![database](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 ### IDEs
