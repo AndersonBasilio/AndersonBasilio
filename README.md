@@ -1,13 +1,18 @@
 ## Olá! Eu sou o Anderson Basilio :wave:
 
-- :man_student: Estudante de Analise e Desenvolvimento de Sistemas...
-- :man_technologist: Estudando Linguagem de Programação Python, HTML e CSS...
+  <h5>:man_student: Estudante de Analise e Desenvolvimento de Sistemas...<br>
+  :man_technologist: Estudando Linguagem de Programação Python, HTML e CSS...<br><br><br>
 
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
 
-### Tecnologias: 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![database](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBasilio&&theme=radical)
+
+## Tecnologias
+<div style="display: inline_block"><br>
+<img align = "center" alt ="Pyhton" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align = "center" alt ="HTML5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align = "center" alt ="Pyhton" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
 
 ### IDEs
@@ -18,5 +23,4 @@
 
 ## Contatos:
 [![Sociais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santos-4488a5242/)
-
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonwylde32@gmail.com)
