@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Anderson Basilio :wave:
 
   <h5>:man_student: Estudante de Analise e Desenvolvimento de Sistemas...<br>
-  :man_technologist: Estudando Linguagem de Programação Python, HTML e CSS...<br><br><br>
+  :man_technologist: Estudando Python, HTML e CSS...<br><br><br>
 
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
   
