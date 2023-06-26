@@ -2,7 +2,7 @@
 
   <h5>:man_student: Estudante de Analise e Desenvolvimento de Sistemas...<br>
   :man_technologist: Estudando Python, HTML, CSS e JavaScript...<br>
-  😀Pronouns: Ele/ Dele...
+  😀Pronuncia: Ele/ Dele...
   <br><br><br>
   
 
