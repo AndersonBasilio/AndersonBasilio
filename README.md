@@ -3,7 +3,7 @@
   <h5>:man_student: Estudante de Analise e Desenvolvimento de Sistemas...<br>
   :man_technologist: Estudando Python, HTML, CSS e JavaScript...<br>
   😀Pronuncia: Ele/ Dele...
-  <br><br><br>
+  <br><br>
   
 
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical)
