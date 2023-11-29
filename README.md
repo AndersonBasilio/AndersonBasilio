@@ -10,9 +10,6 @@
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonBasilio&show_icons=true&theme=radical) <br>
 ![Anderson Basilio's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonBasilio&&theme=radical)
   
-
- 
-
 ## Tecnologias:
 <div style="display: inline_block"><br>
 <img align = "center" alt ="Pyhton" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
