@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Anderson Basilio :wave:
 
-  <h5>:man_student: Estudante de Analise e Desenvolvimento de Sistemas...<br>
+  <h5>:man_student: Formado em Analise e Desenvolvimento de Sistemas...<br>
   :man_technologist: Estudando Python, HTML, CSS e JavaScript...<br>
   😀Pronuncia: Ele/ Dele...
   <br><br>
