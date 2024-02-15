@@ -33,6 +33,10 @@
             <img align = "center" alt ="MySQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         </td>
     </tr>
+      <tr>
+        <td>Sistema Operacionais</td>
+        <td><img align = "center" alt ="MySQL" src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
+    </tr>
     <tr>
         <td>Ferramentas:</td>
         <td>
