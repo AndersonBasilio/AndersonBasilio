@@ -45,6 +45,12 @@
             <img align = "center" alt ="Git" src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
         </td>
     </tr>
+        <tr>
+        <td>Framework:</td>
+        <td>
+            <img align = "center" alt ="Bootstrap" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        </td>
+    </tr>
 
 </table>
 
