@@ -19,7 +19,7 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbasilio&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
     alt="Streak stats"
-    width="700"
+    width="450"
   />
 </p>
 
@@ -52,14 +52,7 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -106,14 +99,21 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
 <br>
 
 ## Sistema Operacional 
-<p>
   <img 
     align="left" 
     alt="Windows" 
-    height="28" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
   />
+  <img 
+    align="left" 
+    alt="Linux" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+  />
+</p>
   
 <br>
 <br>
