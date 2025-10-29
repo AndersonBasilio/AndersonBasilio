@@ -14,6 +14,15 @@ Estou constantemente aprimorando minhas habilidades através de cursos e certifi
 Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras, com um forte foco na satisfação do cliente e na estabilidade dos sistemas de TI. Estou sempre em busca de oportunidades para colaborar, aprender e contribuir com equipes dinâmicas e projetos desafiadores.
 </p>
 
+<p align="center">
+    <br>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=andersonbasilio&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"
+    alt="Streak stats"
+    width="700"
+  />
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/anderson-santos-4488a5242">
     <img 
