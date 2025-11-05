@@ -37,7 +37,24 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/AndersonBasilio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
+  </a>_ 
+  <a href="https://wa.me/5531985636252">
+    <img 
+      alt="WhatsApp" 
+      title="WhatsApp" 
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
   </a>
+    <a href="mailto:andersonwylde32@gmail.com">
+    <img 
+      alt="Email" 
+      title="Enviar Email" 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+</p>
+</p>
+
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
@@ -98,7 +115,7 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
 <br>
 <br>
 
-## Sistema Operacional 
+## Sistemas Operacionais 
   <img 
     align="left" 
     alt="Windows" 
