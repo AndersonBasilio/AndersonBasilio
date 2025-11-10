@@ -59,7 +59,7 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens / Tecnologias / Banco de Dados
 
 <img 
     align="left" 
@@ -68,6 +68,15 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS3"
+    title="CSS3" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
 <img 
@@ -110,6 +119,14 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br>
