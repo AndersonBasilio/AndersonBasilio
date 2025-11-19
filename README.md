@@ -171,6 +171,16 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
     src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" 
 />
 
+<p>
+  <img 
+    align="left" 
+    alt="Paycharm" 
+    height="28" 
+    style="padding-right: 10px;" 
+    src="https://img.shields.io/badge/Sublime_Text-FF9800.svg?&style=for-the-badge&logo=sublimetext&logoColor=white" 
+/>
+
+
 <br>
 <br>
 
