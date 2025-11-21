@@ -185,7 +185,6 @@ Sou um entusiasta da programação e do desenvolvimento de soluções inovadoras
 <br>
 
 
-
 ### 📊 Estatísticas
 
 <p>
