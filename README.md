@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Anderson+Basilio;+Desenvolverdor+FrontEnd.;+Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
 <p style=color"#00bfbf">
-    Sou um profissional dedicado e apaixonado por Tecnologia da Informação, com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação. Com uma sólida base em tecnologias como Python, JavaScript, HTML, CSS e MySQL, tenho me especializado em áreas como automação e desenvolvimento web.
+Sou um profissional dedicado e apaixonado por Tecnologia da Informação, com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Ciência da Computação. Com uma sólida base em tecnologias como Python, JavaScript, HTML, CSS e MySQL, tenho me especializado em áreas como automação e desenvolvimento web.
 
 Desenvolvi projetos significativos, incluindo uma solução de automação para envio de e-mails utilizando Python e um chat para envio de mensagens com Flet. Ambos os projetos estão disponíveis no meu GitHub, demonstrando minha habilidade prática e aplicabilidade de conhecimentos técnicos.
 
